@@ -6,5 +6,6 @@ This is a simple program that you can use to quickly remind yourself of the phon
 # Instructions
 
 # Credits
+Babatunde Onabajo (ChurchMapped Limited)
 
-
+# Disclaimer
