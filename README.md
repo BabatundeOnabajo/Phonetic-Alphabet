@@ -4,6 +4,8 @@ This is a simple program that you can use to quickly remind yourself of the phon
 # Requirements
 
 # Instructions
+In order to use this program, you should follow the following instructions:
+
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
